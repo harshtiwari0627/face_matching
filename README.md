@@ -1,2 +1,2 @@
 # face_matching
-face matching using python
+This code finds the encoding of two given images and then match the found encodings of face.
